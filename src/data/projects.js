@@ -126,4 +126,26 @@ export const projects = [
       "Prediction system",
     ],
   },
+
+  {
+    id: 7,
+    title: "J&R Accountants",
+    category: "SEO",
+    description:
+      "SEO optimization for a professional accounting & tax services firm based in Joliet & Schaumburg, Illinois.",
+    image: "/images/projects/jracct.png",
+    technologies: ["SEO", "WordPress", "Google Analytics", "Rank Math"],
+    developer: "Nicolle",
+    liveUrl: "https://jracct.com/",
+    githubUrl: "",
+    features: [
+      "Keyword research & optimization",
+      "On-page SEO",
+      "Meta tags & schema markup",
+      "Google Analytics setup",
+      "Local SEO (Joliet & Schaumburg)",
+      "Page speed optimization",
+      "Technical SEO audit",
+    ],
+  },
 ];

@@ -42,7 +42,7 @@ function ProjectModal({ project, onClose }) {
           </div>
 
           <div className="modal-buttons">
-            {project.liveUrl && (
+            {/* {project.liveUrl && (
               <a
                 href={project.liveUrl}
                 target="_blank"
@@ -51,7 +51,7 @@ function ProjectModal({ project, onClose }) {
               >
                 Visit Website ↗
               </a>
-            )}
+            )} */}
 
             {project.githubUrl && (
               <a

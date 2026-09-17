@@ -6,7 +6,6 @@ import Services from "./components/Services";
 import FeaturedProjects from "./components/FeaturedProjects";
 import Technologies from "./components/Technologies";
 import Process from "./components/Process";
-import Team from "./components/Team";
 import Testimonials from "./components/Testimonials";
 import CTA from "./components/CTA";
 import Contact from "./components/Contact";
@@ -30,7 +29,6 @@ function App() {
 
         <Technologies />
         <Process />
-        <Team />
         <Testimonials />
         <CTA />
         <Contact />

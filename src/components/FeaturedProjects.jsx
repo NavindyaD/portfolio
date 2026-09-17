@@ -8,6 +8,7 @@ const categories = [
   "E-Commerce",
   "AI / ML",
   "Business Software",
+  "SEO",
 ];
 
 function FeaturedProjects({ onProjectClick }) {
