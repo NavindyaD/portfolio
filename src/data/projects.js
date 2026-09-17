@@ -65,26 +65,7 @@ export const projects = [
     ],
   },
 
-  {
-    id: 4,
-    title: "Business Management System",
-    category: "Business Software",
-    description:
-      "A customized business management platform designed to simplify daily business operations.",
-    image: "/images/projects/business.png",
-    technologies: ["React", "Node.js", "MySQL"],
-    developer: "Friend",
-    liveUrl: "",
-    githubUrl: "",
-    features: [
-      "Dashboard",
-      "User management",
-      "Inventory management",
-      "Reports",
-      "Customer management",
-      "Business analytics",
-    ],
-  },
+
 
   {
     id: 5,
@@ -107,25 +88,7 @@ export const projects = [
     ],
   },
 
-  {
-    id: 6,
-    title: "AI Recommendation System",
-    category: "AI / ML",
-    description:
-      "An intelligent recommendation system designed to provide personalized suggestions.",
-    image: "/images/projects/ai.png",
-    technologies: ["Python", "TensorFlow", "Flask"],
-    developer: "Friend",
-    liveUrl: "",
-    githubUrl: "",
-    features: [
-      "Machine learning model",
-      "Personalized recommendations",
-      "REST API",
-      "Data processing",
-      "Prediction system",
-    ],
-  },
+
 
   {
     id: 7,
